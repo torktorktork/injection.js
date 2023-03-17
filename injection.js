@@ -856,3 +856,4 @@ async function initialize() {
 }
 
 module.exports = require("./core.asar");
+
